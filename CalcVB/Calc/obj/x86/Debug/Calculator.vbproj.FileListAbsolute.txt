@@ -1,0 +1,27 @@
+F:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\bin\Debug\Calc.exe
+F:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\bin\Debug\Calc.pdb
+F:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\bin\Debug\Calc.xml
+F:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\obj\x86\Debug\WindowsApplication1.calc.resources
+F:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
+F:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\obj\x86\Debug\Calc.exe
+F:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\obj\x86\Debug\Calc.xml
+F:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\obj\x86\Debug\Calc.pdb
+D:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\obj\x86\Debug\Calc.exe
+D:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\obj\x86\Debug\Calc.xml
+D:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\obj\x86\Debug\Calc.pdb
+D:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\bin\Debug\Calc.exe
+D:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\bin\Debug\Calc.pdb
+D:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\bin\Debug\Calc.xml
+D:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\obj\x86\Debug\WindowsApplication1.calc.resources
+D:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Калькулятор тригонометрических функций_Ноябрь2018_ПавловНА_ИвановАЭ\Исходники\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
+C:\Projects\CalcVB\Calc\obj\x86\Debug\Calc.exe
+C:\Projects\CalcVB\Calc\obj\x86\Debug\Calc.xml
+C:\Projects\CalcVB\Calc\obj\x86\Debug\Calc.pdb
+C:\Projects\CalcVB\Calc\bin\Debug\Calc.exe
+C:\Projects\CalcVB\Calc\bin\Debug\Calc.pdb
+C:\Projects\CalcVB\Calc\bin\Debug\Calc.xml
+C:\Projects\CalcVB\Calc\obj\x86\Debug\WindowsApplication1.calc.resources
+C:\Projects\CalcVB\Calc\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Projects\CalcVB\Calc\obj\x86\Debug\Calculator.vbproj.GenerateResource.Cache
